@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
 html {
-    background-color: rgb(244, 241, 241);
+    background-color: rgb(215, 205, 201);
     font-family: 'Quicksand', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -18,7 +18,7 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background-image:url(C:\Users\miley\Downloads\download (4).jpeg);
+    background-color:rgb(215, 205, 201);
     line-height: 2.5em;
 }
 
@@ -27,7 +27,7 @@ h1.page-header{
 }
 
 main.wrapper {
-    background-image: url('C:\Users\miley\Downloads\download (4).jpeg');
+    background-color:rgb(215, 205, 201);
 }
 
 p {
